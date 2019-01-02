@@ -1,6 +1,6 @@
 **Obs+FixedDev**
 
-- **Function**： The program realizes that the pseudo-distance and carrier phase observation values in Rinex observation files are increased by fixed deviation.
+- **Function**： The program implements the pseudo distance and carrier phase observation values of Rinex observation file to be modified according to the given time delay.
 - **Update**：
   
   **Release Obs+FixedDev1.0** 
