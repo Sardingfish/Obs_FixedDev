@@ -7,7 +7,7 @@ class ObsFile
 public:
 		int    num_sat;
 		int    Total_Observe_Type;
-		char*  Obs_Type_List[OBS_NUM];                    //观测类型数组;每一个元素代表一种类型
+		char*  Obs_Type_List[OBS_NUM];             
 
 		double DeltaT;                                  
 		double StarTime;                                 
